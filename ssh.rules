@@ -1,0 +1,16 @@
+; Summary: All SSH Hosts
+; Author: Yaroslav Shirokov
+
+#BEGIN
+
+[RegExp]
+^https?://[\w\._-]*\.?wellsfargo.com/?.+
+^https?://[\w\._-]*\.?facebook.com/?.+
+^https?://[\w\._-]*\.?fbcdn.net/?.+
+^https?://[\w\._-]*\.?google.com/?.+
+^https?://[\w\._-]*\.?imgur.com/?.+
+^https?://[\w\._-]*\.?reddit.com/?.+
+^https?://[\w\._-]*\.?twitter.com/?.+
+
+
+#END
