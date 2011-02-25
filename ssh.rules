@@ -1,9 +1,13 @@
-; Summary: All SSH Hosts
-; Author: Yaroslav Shirokov
+; Summary: Proxy Switchy! Exported Rule List
+; Date: Friday, February 25, 2011
+; Website: http://bit.ly/proxyswitchy
 
 #BEGIN
 
-[RegExp]
+[wildcard]
+
+
+[regexp]
 ^https?://[\w\._-]*\.?wellsfargo.com/?.+
 ^https?://[\w\._-]*\.?facebook.com/?.+
 ^https?://[\w\._-]*\.?fbcdn.net/?.+
@@ -11,6 +15,5 @@
 ^https?://[\w\._-]*\.?imgur.com/?.+
 ^https?://[\w\._-]*\.?reddit.com/?.+
 ^https?://[\w\._-]*\.?twitter.com/?.+
-
 
 #END
