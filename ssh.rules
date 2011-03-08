@@ -15,5 +15,6 @@
 ^https?://[\w\._-]*\.?imgur.com/?.+
 ^https?://[\w\._-]*\.?reddit.com/?.+
 ^https?://[\w\._-]*\.?twitter.com/?.+
+^https?://[\w\._-]*\.?yfrog.com/?.+
 
 #END
